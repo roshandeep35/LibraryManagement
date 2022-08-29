@@ -1,0 +1,8 @@
+                Library Management System 
+                   Returned By: Roshandeep
+    Date: 2019-10-08    Time:22:17:19.565765
+
+S.N.		Bookname		Cost
+2		Start With Why		RS100
+					Fine: RS4
+					Total: RS104.0

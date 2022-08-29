@@ -1,0 +1,8 @@
+                Library Management System 
+                   Returned By: da
+    Date: 2019-10-11    Time:09:48:03.613116
+
+S.N.		Bookname		Cost
+1		Harry Potter		RS2
+					Fine: RS6
+					Total: RS8.0
